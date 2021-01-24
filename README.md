@@ -15,3 +15,5 @@ Tämän jälkeen jokainen pelaaja yrittää arvata oikean vastauksen.
 Pelaajat, joiden selitykset ovat uskottavimpia, pääsevät etenemään pelilaudalla.
 Voit olla niin hullutteleva tai vakava kuin itse haluat sillä kaikki käy!
 Yksi on kuitenkin varmaa: Selitys, joka kuulostaa uskottavimmalta, ei yleensä ole sitä!
+
+[Säännöt kokonaisuudessaan](http://www.tactic.net/site/rules/FIN/02438.pdf)
